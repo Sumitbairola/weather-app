@@ -22,6 +22,9 @@ To run this project locally, follow these steps:
 - Enter a city name in the search box to get the current weather and forecast.
 - Click on the "Switch to Fahrenheit" button to change the temperature unit.
 
+## Deployed link
+- https://weather-app-sable-ten-40.vercel.app/
+
 
 # Getting Started with Create React App
 
