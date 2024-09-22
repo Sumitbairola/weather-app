@@ -1,3 +1,28 @@
+## Setup Instructions
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <project-directory>
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm start
+
+4. The application should now be running on http://localhost:3000
+
+## Assumptions
+- The application uses OpenWeatherMap API for weather data.
+- Users can search for cities and switch between Celsius and Fahrenheit.
+
+## Usage
+- Enter a city name in the search box to get the current weather and forecast.
+- Click on the "Switch to Fahrenheit" button to change the temperature unit.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
