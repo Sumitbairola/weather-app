@@ -23,7 +23,7 @@ const ForecastCard = ({ date, tempMin, tempMax, icon, unit }) => {
     <div className="forecast-card">
       <h3>{getDayOfWeek(date)}</h3>
       <img
-        src={`http://openweathermap.org/img/wn/${icon}@2x.png`}
+        src={`https://openweathermap.org/img/wn/${icon}@2x.png`}
         alt="weather icon"
       />
       <p>

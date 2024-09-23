@@ -4,7 +4,7 @@ const WeatherIcon = ({ icon }) => {
   return (
     <img
       className="weather-icon"
-      src={`http://openweathermap.org/img/wn/${icon}@2x.png`}
+      src={`https://openweathermap.org/img/wn/${icon}@2x.png`}
       alt="Weather icon"
     />
   );
